@@ -87,6 +87,16 @@ export default {
 
 <style>
 
+a {
+	color: black;
+}
+a:visited {
+	color: black;
+}
+a:hover {
+	opacity: 0.4;	
+}
+
 h2 {
 	margin-top: 10px;
 	margin-bottom: 6px;

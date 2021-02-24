@@ -134,10 +134,6 @@ footer {
 	text-align: left;
 	font-size: 16px;
 	max-width: 960px;
-	padding-bottom: 0px;
-	padding-left: 32px;
-	padding-right: 32px;
-	padding-top: 60px;
 }
 
 .ref-contents {

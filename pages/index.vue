@@ -133,10 +133,6 @@ footer {
 	display: block;
 	text-align: left;
 	font-size: 16px;
-	margin-bottom: 0px;
-	margin-left: 0px;
-	margin-right: 440px;
-	margin-top: 0px;
 	max-width: 960px;
 	padding-bottom: 0px;
 	padding-left: 32px;
